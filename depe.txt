@@ -1,0 +1,15 @@
+[[1;34mINFO[m] Scanning for projects...
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m------------------< [0;36mclinic.programming:maven-junaid[0;1m >-------------------[m
+[[1;34mINFO[m] [1mBuilding maven-junaid 1.0[m
+[[1;34mINFO[m] [1m--------------------------------[ jar ]---------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-dependency-plugin:2.8:tree[m [1m(default-cli)[m @ [36mmaven-junaid[0;1m ---[m
+[[1;34mINFO[m] clinic.programming:maven-junaid:jar:1.0
+[[1;34mINFO[m] \- org.apache.commons:commons-lang3:jar:3.4:compile
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1;32mBUILD SUCCESS[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] Total time:  1.120 s
+[[1;34mINFO[m] Finished at: 2022-03-21T11:24:12+05:00
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
